@@ -1,0 +1,12 @@
+/* CSS file */
+
+
+.embed-responsive { position: relative; display: block; height: 55px; width: 100%; padding: 0; overflow: hidden; margin:-2px 0; left: 0px; }
+.embed-responsive .embed-responsive-item, .embed-responsive iframe, .embed-responsive embed, .embed-responsive object, .embed-responsive video { position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; }
+.embed-responsive-16by9 { padding-bottom: 49.25%; }
+.votatron3000 { display: none !important; }
+
+@media(max-width: 8355555px)
+.embed-responsive{
+  width: 100%;
+}
